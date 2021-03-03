@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ActivityConversationApp</string>
+    <string name="conversation_text">Conversation not started yet!</string>
+    <string name="user_2_text">USER 2</string>
+    <string name="user_1_text">USER 1</string>
+</resources>
